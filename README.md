@@ -57,7 +57,7 @@
 
 - <a href="https://drive.google.com/file/d/1t9-XzrCp2FGIjTmG1yhZNTTIq4nHGetE/view?usp=sharing">Video Link</a>
 
-- Live Demo Link (Coming Soon!)
+- [Live Demo Link](https://dev--euphonious-kitsune-6bef08.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
